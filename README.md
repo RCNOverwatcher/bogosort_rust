@@ -9,4 +9,4 @@ A simple bogosort implementation, written in Rust.
 3. Your executable should be found in the `/target/debug` directory.
 
 ### Quick Start
-Download the latest release from [releases](https://github.com/RCNOverwatcher/bogosort_rust/releases).
+Download the latest release from [releases](https://github.com/RCNOverwatcher/bogosort_rust/releases/latest).
